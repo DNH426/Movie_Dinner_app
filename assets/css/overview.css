@@ -1,0 +1,72 @@
+    /* font-family: 'Share',
+    cursive;
+    font-family: 'Limelight',
+    cursive; */
+    
+    body {
+        font-family: 'Share', cursive;
+        font-size: 24px;
+    }
+    
+    .header {
+        font-family: 'Limelight', cursive;
+        font-size: 40px;
+        text-align: center;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 125px;
+        z-index: 10;
+        background: #757575;
+        -webkit-box-shadow: 0 7px 8px rgba(0, 0, 0, 0.12);
+        -moz-box-shadow: 0 7px 8px rgba(0, 0, 0, 0.12);
+        box-shadow: 0 7px 8px rgba(0, 0, 0, 0.12);
+        color: #FFFFFF;
+    }
+    
+    .top {
+        font-size: 80px;
+        margin: 15px;
+    }
+    
+    .logo {
+        margin-top: -5px;
+        width: 100px;
+        height: 100px;
+        align-content: center;
+    }
+    
+    #map {
+        border: solid 4px #FFFFFF;
+        height: 500px;
+        width: 95%;
+    }
+    
+    .heading {
+        text-align: center;
+        font-size: 22px;
+        letter-spacing: 2px;
+    }
+    
+    .mapview {
+        padding-top: 50px;
+        padding-right: 50px;
+    }
+    
+    .overview {
+        padding-top: 50px;
+        padding-left: 20px;
+    }
+    
+    .d-inline-block {
+        margin-right: 5px;
+    }
+    
+    a {
+        color: #000000;
+    }
+
+    #content {
+        margin-top: 125px;
+    }
